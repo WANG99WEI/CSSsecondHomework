@@ -1,0 +1,26 @@
+.ww{
+    -webkit-column-count: 3;
+    column-rule: 1px solid greenyellow;
+    column-gap: 60px;
+    column-width: auto;
+    
+    -webkit-column-span: all;
+    text-align: center;
+    color: seashell;
+
+    width: 800px;
+    
+    /* display: flex; */
+
+}
+.act{
+    background: green;
+    float: left;
+    width: 250px;
+    height: 100px;
+    text-align: center;
+}
+body{
+    background-color: salmon;
+    position:0,100;
+}
